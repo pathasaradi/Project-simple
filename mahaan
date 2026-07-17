@@ -9,3 +9,13 @@
 5. How do you remove all Docker images from the host?
 
 6. What are the different ways to reduce the size of a Docker image?
+
+1. What are the main components of a Virtual Private Cloud (VPC)?
+
+2. How can you log in to an EC2 instance that is deployed in a private subnet?
+
+3. Suppose logs are not being uploaded from a server to an S3 bucket. There are no network issues and the server is functioning correctly. What could be the possible reasons?
+
+4. Why can't you attach an Internet Gateway directly to a public subnet?
+
+5. How can a server in a private subnet access the internet?
