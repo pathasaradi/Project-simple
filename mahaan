@@ -2,7 +2,7 @@
 
 8. How many CMD instructions can be added in a Dockerfile? What happens if multiple CMD instructions are present?
 
-9. Can a Dockerfile contain multiple CMD instructions? If yes, what happens when multiple CMD instructions exist?
+9. ICan a Dockerfile contain multiple CMD instructions? If yes, what happens when multiple CMD instructions exist?
 
 10. What is the difference between COPY and ADD in a Dockerfile?
 
@@ -19,3 +19,5 @@
 4. Why can't you attach an Internet Gateway directly to a public subnet?
 
 5. How can a server in a private subnet access the internet?
+
+used for test
