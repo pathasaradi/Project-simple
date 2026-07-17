@@ -1,0 +1,7 @@
+1. Write a shell script to check whether the Nginx service is running. If it is not running, start the service.
+
+2. How do you create a mount point and mount a filesystem so that it is accessible?
+
+3. What does the command "echo $?" indicate in Linux?
+
+4. How do you check the available and used space of a filesystem in Linux?
