@@ -1,0 +1,11 @@
+7. What is the difference between ENTRYPOINT and CMD in a Dockerfile?
+
+8. How many CMD instructions can be added in a Dockerfile? What happens if multiple CMD instructions are present?
+
+9. Can a Dockerfile contain multiple CMD instructions? If yes, what happens when multiple CMD instructions exist?
+
+10. What is the difference between COPY and ADD in a Dockerfile?
+
+5. How do you remove all Docker images from the host?
+
+6. What are the different ways to reduce the size of a Docker image?
